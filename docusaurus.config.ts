@@ -30,7 +30,20 @@ const config: Config = {
       {
         docs: false,
         blog: {
+          blogTitle: 'Blog',
+          blogDescription: 'The Alxira5 blog',
           showReadingTime: true,
+          feedOptions: {
+            type: 'all',
+            copyright: `© ${new Date().getFullYear()} Guillermo Brito. Some rights reserved`,
+            createFeedItems: async (params) => {
+              const {blogPosts, defaultCreateFeedItems, ...rest} = params;
+              return defaultCreateFeedItems({
+                blogPosts: blogPosts.filter((item, index) => index < 10),
+                ...rest,
+              });
+            },
+          },
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -43,7 +56,7 @@ const config: Config = {
     metadata: [
       {name: 'keywords', content: 'tech, blog'},
       {name: 'twitter:card', content: 'summary'},
-      {name: 'google-site-verification', content: 'VE5juuizYGL73gAaz0dkBmCIsRjyOj8SweDZ14PON_g'},
+      {name: 'google-site-verification', content: 'dGGfSr0CqYOO8aqpUMRluHF8tzj9wNxBURV_prRd3Vs'},
       {name: 'msvalidate.01', content: '29C8E8925A64BE85BDB69C975B67DDD0'},
     ],
     headTags: [
@@ -52,10 +65,10 @@ const config: Config = {
         attributes: {
           type: 'application/ld+json',
         },
-        innerHTML: JSON.stringify ({
-          '@context': 'https://schema.org/',
+        innerHTML: JSON.stringify({
+          '@context': 'https://schema.org',
           '@type': 'Person',
-          image: 'https://alxira5.vercel.app/img/alxira5.jpg',
+          image: 'img/alxira5.jpg',
           jobTitle: 'Software Developer',
           name: 'Guillermo Brito',
           url: 'https://alxira5.vercel.app/',

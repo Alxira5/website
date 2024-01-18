@@ -55,7 +55,8 @@ const config: Config = {
   themeConfig: {
     metadata: [
       {name: 'keywords', content: 'tech, blog'},
-      {name: 'twitter:card', content: 'summary'},
+      {name: 'twitter:card', content: 'summary_large_image'},
+      {name: 'twitter:creator', content: '@Alxira5'},
       {name: 'google-site-verification', content: 'dGGfSr0CqYOO8aqpUMRluHF8tzj9wNxBURV_prRd3Vs'},
       {name: 'msvalidate.01', content: '29C8E8925A64BE85BDB69C975B67DDD0'},
     ],

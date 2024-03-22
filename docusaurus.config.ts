@@ -146,6 +146,12 @@ const config: Config = {
           ],
         },
       ],
+      logo: {
+        alt: 'Alxira5 Logo',
+        src: 'img/footer-logo.svg',
+        width: 160,
+        height: 51,
+      },
       copyright: `&copy; ${new Date().getFullYear()} Guillermo Brito. Some rights reserved`,
     },
     prism: {

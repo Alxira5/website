@@ -45,7 +45,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: 
+      image:
         path: /assets/images/social-card.png
         alt: Social card
 
@@ -60,6 +60,7 @@ plugins:
 header_pages:
   - blog.md
   - about.html
+  - avatar.html
   - contact.html
 
 minima:

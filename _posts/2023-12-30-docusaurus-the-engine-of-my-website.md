@@ -36,4 +36,5 @@ Now that this is my new website and it has changed a little from the
 previous one, Its main change is that it now uses Docusaurus v3 and
 the [contact form](/contact) is more functional, the rest remains the same.
 
-And just like my previous website, it is open source and you can find its source code on [GitHub](https://github.com/Alxira5/website).
+And just like my previous website, it is open source and you can find its
+source code on [GitHub](https://github.com/Alxira5/website).

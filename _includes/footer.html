@@ -6,8 +6,12 @@
         <p class="feed-subscribe">
           <a href="{{ site.feed.path | default: '/blog/feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
+              <use
+                xlink:href="{{ 'assets/social-icons.svg#rss' | relative_url }}"
+                >
+              </use>
+            </svg>
+            <span>Subscribe</span>
           </a>
         </p>
       {%- if site.author %}
@@ -16,7 +20,14 @@
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            <li>
+              <a
+                class="u-email"
+                href="mailto:{{ site.author.email }}"
+                >
+                {{ site.author.email }}
+              </a>
+            </li>
           {%- endif %}
         </ul>
       {%- endif %}
@@ -29,8 +40,33 @@
       {%- include social.html -%}
     </div>
     <div class="footer-center">
-      <p>The content is under <a href="https://creativecommons.org/licenses/by/4.0/deed.en" tarjet="_blank">CC-BY 4.0</a>, unless otherwise noted</p>
-      <p>Made with <a href="https://jekyllrb.com/" tarjet="_blank">Jekyll {{ jekyll.version }}</a> and the <a href="https://github.com/jekyll/minima" tarjet="_blank">Minima</a> theme</p>
+      <p>
+        The content is under
+        <a
+          href="https://creativecommons.org/licenses/by/4.0/deed.en"
+          tarjet="_blank"
+          >
+          CC-BY 4.0
+        </a>
+        , unless otherwise noted
+      </p>
+      <p>
+        Made with
+        <a
+          href="https://jekyllrb.com/"
+          tarjet="_blank"
+          >
+          Jekyll {{ jekyll.version }}
+        </a>
+        and the
+        <a
+          href="https://github.com/jekyll/minima"
+          tarjet="_blank"
+          >
+          Minima
+        </a>
+        theme
+      </p>
     </div>
   </div>
 </footer>

@@ -29,7 +29,7 @@ twitter:
 social:
   name: Guillermo Brito
   links:
-    - https://gitlab.com/Alxira5
+    - https://github.com/Alxira5
     - https://www.youtube.com/@Alxira5
     - https://mastodon.social/@Alxira5
     - https://x.com/Alxira5
@@ -73,3 +73,4 @@ minima:
 exclude:
   - README.md
   - LICENSE
+  - ASSET_LICENSE

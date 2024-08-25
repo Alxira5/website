@@ -78,12 +78,12 @@
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
+    margin-left: 20px;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 0;
     }
-    margin-left: 20px;
   }
 
   @media screen and (min-width: $on-medium) {
@@ -107,11 +107,11 @@
     .page-link {
       display: inline;
       padding: 0;
+      margin-left: auto;
 
       &:not(:last-child) {
         margin-right: 20px;
       }
-      margin-left: auto;
     }
   }
 }
@@ -299,6 +299,75 @@
       &:hover { border-color: $border-color-02 }
     }
   }
+}
+
+/**
+ * Error pages
+ */
+.error-container {
+  margin: 10px auto;
+  max-width: 600px;
+  text-align: center;
+}
+
+/**
+ * Media
+ */
+.avatar {
+  margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/**
+ * Special text
+ */
+.error-title {
+  margin: 30px 0;
+  font-size: 4em;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+.download {
+  text-align: center;
+  font-size: 50px;
+}
+
+/**
+ * Contact form
+ */
+ .contact-button {
+  font-size: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  border-radius: 4px;
+}
+
+.contact-label {
+  font-size: 1em;
+  margin-left: 12px;
+}
+
+.contact-input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
 }
 
 /**

@@ -1,40 +1,42 @@
-<style type="text/css" media="all">
-  button {
-    font-size: 1em;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 10px 20px;
-    border-radius: 4px;
-  }
-  label {
-    font-size: 1em;
-    margin-left: 12px;
-  }
-  input, textarea {
-    width: 100%;
-    padding: 12px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-    margin-top: 6px;
-    margin-bottom: 16px;
-    resize: vertical;
-  }
-</style>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <form
+  class="contact-form"
   action="https://formspree.io/f/mleynjle"
   method="POST"
 >
-  <label>
+  <label
+    class="contact-label"
+  >
     Your email:
-    <input type="email" name="email" required placeholder="you@domain.com" />
+    <input
+      class="contact-input"
+      type="email"
+      name="email"
+      required
+      placeholder="you@domain.com"
+    />
   </label>
-  <label>
+  <label
+    class="contact-label"
+  >
     Your message:
-   <textarea name="message" required placeholder="Enter your message here…"></textarea>
+    <textarea
+      class="contact-input"
+      name="message"
+      required
+      placeholder="Enter your message here…"
+      >
+    </textarea>
   </label>
-  <div class="g-recaptcha" data-sitekey="6LdNrfcoAAAAAJE4exGLs8_exPkf6nkntVzdYNvq"></div>
-  <button type="submit">Send</button>
+  <div
+    class="g-recaptcha"
+    data-sitekey="6LdNrfcoAAAAAJE4exGLs8_exPkf6nkntVzdYNvq"
+    >
+  </div>
+  <button
+    class="contact-button"
+    type="submit"
+    >
+    Send
+  </button>
 </form>

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Blog
-description: My personal blog.
+description: My personal blog and maybe something of interest.
 permalink: /blog/
 ---
 

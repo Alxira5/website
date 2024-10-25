@@ -74,3 +74,11 @@ exclude:
   - README.md
   - LICENSE
   - ASSET_LICENSE
+  - .sass-cache/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

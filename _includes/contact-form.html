@@ -1,0 +1,42 @@
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<form
+  class="contact-form"
+  action="https://formspree.io/f/mleynjle"
+  method="POST"
+>
+  <label
+    class="contact-label"
+  >
+    Your email:
+    <input
+      class="contact-input"
+      type="email"
+      name="email"
+      required
+      placeholder="you@domain.com"
+    />
+  </label>
+  <label
+    class="contact-label"
+  >
+    Your message:
+    <textarea
+      class="contact-input"
+      name="message"
+      required
+      placeholder="Enter your message here…"
+      >
+    </textarea>
+  </label>
+  <div
+    class="g-recaptcha"
+    data-sitekey="6LdNrfcoAAAAAJE4exGLs8_exPkf6nkntVzdYNvq"
+    >
+  </div>
+  <button
+    class="contact-button"
+    type="submit"
+    >
+    Send
+  </button>
+</form>

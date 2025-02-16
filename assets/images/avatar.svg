@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Alxira5 Avatar</title>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient955">
+      <stop
+         style="stop-color:#434343;stop-opacity:1;"
+         offset="0"
+         id="stop953" />
+      <stop
+         style="stop-color:#222222;stop-opacity:1;"
+         offset="1"
+         id="stop951" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient949">
+      <stop
+         style="stop-color:#222222;stop-opacity:1;"
+         offset="0"
+         id="stop945" />
+      <stop
+         style="stop-color:#434343;stop-opacity:1;"
+         offset="1"
+         id="stop947" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2103">
+      <stop
+         style="stop-color:#1f1f1f;stop-opacity:1;"
+         offset="0"
+         id="stop2099" />
+      <stop
+         style="stop-color:#313131;stop-opacity:1;"
+         offset="1"
+         id="stop2101" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient16">
+      <stop
+         style="stop-color:#b00000;stop-opacity:1;"
+         offset="0"
+         id="stop16" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="1"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4">
+      <stop
+         style="stop-color:#d58654;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#f3ad80;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient16"
+       id="linearGradient17"
+       x1="150.52833"
+       y1="358.571"
+       x2="231.71134"
+       y2="358.571"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient949"
+       id="linearGradient21"
+       x1="230.70242"
+       y1="212.39977"
+       x2="381.009"
+       y2="212.39977"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-9.6596619,-1.7252191)" />
+    <linearGradient
+       xlink:href="#linearGradient949"
+       id="linearGradient2055"
+       x1="12.760138"
+       y1="252.77588"
+       x2="503.52542"
+       y2="252.77588"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-4.1348315)" />
+    <linearGradient
+       xlink:href="#linearGradient955"
+       id="linearGradient2071"
+       x1="57.647114"
+       y1="217.54985"
+       x2="205.87407"
+       y2="217.54985"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient2103"
+       id="linearGradient2097"
+       x1="204.71031"
+       y1="251.23453"
+       x2="224.98141"
+       y2="251.23453"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient4"
+       id="linearGradient3630"
+       x1="59.453407"
+       y1="295.72772"
+       x2="454.59909"
+       y2="295.72772"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     style="stroke-width:3;stroke-dasharray:none">
+    <path
+       style="fill:url(#linearGradient3630);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 119.20803,157.39231 c -69.189407,72.48856 -73.143415,210.31327 -2.24301,279.46217 70.9004,69.1489 216.64501,69.61622 285.83446,-2.87244 69.18944,-72.48866 61.81637,-217.92888 -9.08255,-287.07731 -70.89892,-69.148422 -205.3195,-62.000984 -274.5089,10.48758 z"
+       id="path3620" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="rect7"
+       width="132.73805"
+       height="82.088173"
+       x="223.47878"
+       y="241.71802" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="rect10"
+       width="132.73805"
+       height="82.088173"
+       x="73.478783"
+       y="241.71802" />
+    <rect
+       style="fill:url(#linearGradient2097);stroke:#000000;stroke-width:3;stroke-dasharray:none;fill-opacity:1"
+       id="rect1"
+       width="17.271107"
+       height="19.068457"
+       x="206.21031"
+       y="241.70029" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 145.86963,382.99075 c 11.6793,-10.42113 50.29586,6.21812 84.87285,2.60949 34.57698,-3.60863 67.75312,-17.2425 81.19315,-4.24012 13.07412,12.64838 14.70722,39.38165 -20.15907,59.11789 -34.86629,19.73624 -99.55696,15.91436 -131.61301,-2.1245 -32.05604,-18.03887 -28.77968,-42.4375 -14.29392,-55.36276 z"
+       id="path11" />
+    <path
+       style="fill:url(#linearGradient17);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 165.34365,350.91241 c 14.36515,-8.19932 34.12849,-9.61199 48.23414,-1.43117 14.10566,8.18082 25.87394,24.97954 11.02046,28.60283 -10.98809,2.68038 -17.70934,3.56241 -34.54621,3.4401 -17.71117,-0.12867 -27.45787,-2.48881 -36.13647,-4.40536 -12.02502,-2.65557 -2.93706,-18.00708 11.42808,-26.2064 z"
+       id="path16"
+       transform="translate(39.797568,72.381871)" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:3;stroke-dasharray:none"
+       d="m 213.73198,302.60768 -4.33766,38.7062 28.33123,2.31188"
+       id="path19" />
+    <path
+       style="fill:url(#linearGradient21);stroke:#000000;stroke-opacity:1;stroke-width:3;stroke-dasharray:none;fill-opacity:1.0"
+       d="m 221.54746,215.18406 147.1636,-30.53469 2.10265,25.5531 -146.24596,25.06198 z"
+       id="path20" />
+    <path
+       style="fill:url(#linearGradient2071);fill-opacity:1.0;stroke:#000000;stroke-opacity:1;stroke-width:3;stroke-dasharray:none"
+       d="m 60.118007,199.47905 144.255103,13.90911 -0.0157,22.25758 -145.158219,-11.25783 z"
+       id="path21" />
+    <path
+       style="display:inline;fill:url(#linearGradient2055);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.46622,352.61064 c 0,0 3.52771,-43.91775 13.568775,-84.62658 8.601761,-34.87357 11.925694,-55.83037 11.925694,-55.83037 l -24.679812,-56.94085 40.825908,2.49558 -21.434072,-71.102508 58.778689,9.814845 -31.415331,-80.171858 87.552799,30.39323 6.97356,-23.387092 31.98054,24.399257 11.87153,-27.802502 52.48639,25.623377 3.55412,-24.492511 61.11737,30.009888 20.10533,-17.293473 44.36596,33.492369 25.58985,-25.070602 18.51609,39.074797 33.96134,-5.950629 -3.86176,34.024872 33.99832,14.39434 -12.41192,37.76373 23.51987,53.68651 -23.62051,7.80496 19.48967,52.01757 -22.53975,8.78763 20.71481,41.29897 -20.73994,9.1798 24.08614,45.35366 -20.00852,9.68623 16.74591,35.29988 -24.51819,6.43337 -0.26332,45.3183 -30.49335,-19.94601 -14.71041,32.34283 -19.20742,-29.23389 -30.14125,21.06651 3.48707,-40.66471 -22.22306,-12.39458 26.01459,-38.35725 -25.79862,-4.30699 20.29298,-43.27232 -29.44255,-4.27556 19.27565,-46.92694 -33.36232,5.03267 24.99142,-52.11895 -38.44227,8.79219 7.55299,-45.75891 -35.79127,12.63745 -17.60929,-33.7567 -28.5825,23.97948 -16.2867,-20.08753 -34.67767,38.92998 -7.36453,-29.75122 -28.54628,46.55757 -17.49975,-25.6255 c 0,0 -12.42626,19.73326 -25.53419,65.46764 -14.199731,49.54373 -23.483923,100.631 -23.483923,100.631 l -20.334759,-48.11915 -23.525802,37.7041 -8.423613,-50.60008 z"
+       id="path5" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>Alxira5 Avatar</dc:title>
+        <dc:date>Aug 25, 2023</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Guillermo Brito</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CC0 Public Domain Dedication</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Guillermo Brito</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>English (United States)</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Avatar</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Alxira5 avatar for internet and your social networks.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Guillermo Brito</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

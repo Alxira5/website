@@ -1,0 +1,11 @@
+# This is a robots.txt file and was created by a human for search engines,
+# although it is usually robots for the most part, but I guess they have good
+# intentions, right?
+#
+# Don't create video games or other media with AI, can destroy the work of
+# many, or their dreams and hopes.
+
+User-agent: *
+Disallow:
+
+Sitemap: https://alxira5.vercel.app/sitemap.xml
